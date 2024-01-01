@@ -6,3 +6,7 @@
 	path = src/contracts
 	url = https://github.com/tayviscon-edu-platform/transfer-contract-submodule.git
 	branch = master
+[submodule "src/submodules/common"]
+	path = src/submodules/common
+	url = https://github.com/tayviscon-edu-platform/common-backend-submodule.git
+    branch = master

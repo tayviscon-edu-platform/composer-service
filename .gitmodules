@@ -1,0 +1,4 @@
+[submodule "parent"]
+	path = parent
+	url = https://github.com/tayviscon-edu-platform/backend-parent-submodule.git
+	branch = main

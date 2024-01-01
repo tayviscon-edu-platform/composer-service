@@ -2,3 +2,7 @@
 	path = parent
 	url = https://github.com/tayviscon-edu-platform/backend-parent-submodule.git
 	branch = main
+[submodule "src/contracts"]
+	path = src/contracts
+	url = https://github.com/tayviscon-edu-platform/transfer-contract-submodule.git
+	branch = master
